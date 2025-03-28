@@ -26,21 +26,11 @@
 
 ## Introduction
 
-I've always wanted to know more than just the command line 
-basics that we used to study in university. I wanted to explore 
-more in Linux and aquire the skills of shell scripting since I'm 
-interested in embedded systems and want to make my own build 
-systems and set a professional environment for myself. Then 
-eventually after searching for a gentle source, I 
-found my way to this elegant and powerful book "[The Unix 
-Workbench](https://seankross.com/the-unix-workbench/)". It's a 
-very good start if you want to grasp the 
-concepts of shell scripting quickly and get your hands dirty on 
-many useful and practical examples.
+I've always wanted to know more than just the command line basics that we used to study in university. I wanted to explore more in Linux and aquire the skills of shell scripting since I'm interested in embedded systems and want to make my own build systems and set a professional environment for myself. Then eventually after searching for a gentle source, I found my way to this elegant and powerful book "[The Unix Workbench](https://seankross.com/the-unix-workbench/)". It's a very good start if you want to grasp the concepts of shell scripting quickly and get your hands dirty on many useful and practical examples.
 
 ---
 
-## Before you start...
+## Before you start
 
 - Make sure you approach the book exercises before checking these solutions.
 
@@ -116,9 +106,10 @@ many useful and practical examples.
 
 ## Contributions
 
-> Everyone is welcome to contribute to this [repo](https://github.com/SuperMoudy/Unix_Workbench_Solutions)
+> Everyone is welcome to contribute to this [repo](https://github.com/mhamdyx/Unix_Workbench_Solutions)
 
-### Types of contribution:
+### Types of contribution
+
 1. Fixing a typo.
 
 2. Introducing a more interesting solution.
@@ -127,9 +118,9 @@ many useful and practical examples.
 
 4. Solving unsolved questions.
 
+### Steps of contribution
 
-### Steps of contribution:
-1. Fork this [repo](https://github.com/SuperMoudy/Unix_Workbench_Solutions).
+1. Fork this [repo](https://github.com/mhamdyx/Unix_Workbench_Solutions).
 
 2. Clone your fork on your local machine.
 
@@ -142,7 +133,8 @@ many useful and practical examples.
 6. Create a pull request to my repo (base is my master and head is your new branch).
 
 ### Notes on contribution
-1. If you are solving a new Exercises section, stick to the naming convention in this [repo](https://github.com/SuperMoudy/Unix_Workbench_Solutions).
+
+1. If you are solving a new Exercises section, stick to the naming convention in this [repo](https://github.com/mhamdyx/Unix_Workbench_Solutions).
 
 2. If you are introducing a more interesting solution, don't remove my own but concatenate to it. For example:
 
@@ -151,7 +143,7 @@ many useful and practical examples.
     ```
 
     > A more interesting solution:
-    
+
     ```bash
     # Your solution
     ```
